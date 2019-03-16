@@ -1,0 +1,2 @@
+Manifest-Version: 1.0
+Main-Class: pkg1621221013_mertagcakoyun.Main
